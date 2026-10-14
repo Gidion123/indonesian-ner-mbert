@@ -1,0 +1,36 @@
+# Virtual Environment
+env_asignt_npl/
+venv/
+.venv/
+env/
+
+# Model Checkpoints & Bobot Model
+best_indonesian_ner_model/
+results_bert_nergrit/
+checkpoint-*/
+*.bin
+*.pt
+*.safetensors
+
+# Dataset & Arsip Mentah
+data_nergrit18/
+*.tgz
+*.tar.gz
+*.zip
+*.csv
+*.tsv
+
+# Materi & Instruksi Tugas
+Day 41_modul_NLP.pdf
+detail_project.txt
+Hands On_NLP/
+
+# Python & Jupyter Checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
